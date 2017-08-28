@@ -1,0 +1,7 @@
+---
+- event: rooms
+- event/: rooms
+- Event: rooms
+- Event/: rooms
+- EVENT: rooms
+- EVENT/: rooms
